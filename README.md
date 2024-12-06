@@ -15,7 +15,9 @@ The project aims to implement and test two routing algorithms—Dijkstra's Algor
 ## Features
 
 Network Data Input: Accepts network configuration data in Excel format, which is processed into a Pandas DataFrame for graph creation.
+
 Graph Visualization: Displays the network as a graph with nodes (routers) and edges (links).
+
 Performance Metrics:
 
 > Execution time for both algorithms.
