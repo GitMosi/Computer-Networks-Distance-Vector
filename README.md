@@ -23,7 +23,7 @@ Logarithmic Visualization: Uses logarithmic scaling for clear representation of 
 
 ## Performance Insights
 
-### Dijkstra's Algorithm: Faster with a time complexity of O(|E| + |V| log |V|), making it ideal for large-scale networks like the internet.
-### Distance Vector Routing: Slower due to its complexity of O(|E||V|) but offers a simpler approach for smaller networks.
+Dijkstra's Algorithm: Faster with a time complexity of O(|E| + |V| log |V|), making it ideal for large-scale networks like the internet.
+Distance Vector Routing: Slower due to its complexity of O(|E||V|) but offers a simpler approach for smaller networks.
 
 
