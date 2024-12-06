@@ -7,7 +7,9 @@
 The project aims to implement and test two routing algorithms—Dijkstra's Algorithm and Distance Vector Routing—on a variety of network configurations. The primary objectives are:
 
 1- Simulation of Network Graphs: Representing routers as nodes and links as edges in a graph structure.
+
 2- Algorithm Comparison: Measuring and visualizing execution time and efficiency for both algorithms.
+
 3- Practical Insights: Determining the optimal algorithm for real-world use cases, particularly in latency-sensitive environments like the internet.
 
 ## Features
