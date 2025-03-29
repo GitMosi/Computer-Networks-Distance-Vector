@@ -1,4 +1,4 @@
-# Computer Networks Distance Vector
+# Distance Vector
 
 **This repository contains a Python implementation of Distance Vector Routing and Dijkstra's Algorithm for simulating and comparing their performance on network graphs.**
 
